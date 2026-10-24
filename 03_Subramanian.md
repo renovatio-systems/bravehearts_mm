@@ -8,9 +8,9 @@ You've probably pushed someone out of the way of something, a ball, a bike, a ca
 
 Subedar Subramanian pushed a man away from a live mine. Then he took it himself.
 
-He was born in nineteen twelve, in a small village near Kanchipuram, in Tamil Nadu. He served with the Madras Sappers and Miners, engineers trained to build bridges, and to clear the ground ahead of an advancing army.
+He was born in nineteen twelve, in a small village Ottivakkam, near Kanchipuram, in Tamil Nadu. He served with the Madras Sappers and Miners, engineers trained to build bridges, and to clear the ground ahead of an advancing army.
 
-By February of nineteen forty-four, the Allies were stuck below Monte Cassino, trying to force a way through the Gustav Line towards Rome. Before any attack could go in, the approach roads and fields had to be cleared of mines, slow, dangerous work, done on hands and knees, metre by metre, usually without any recognition at all. The battle for Monte Cassino would stretch on for four months, from January to May nineteen forty-four, and become one of the costliest battles of the entire Italian campaign.
+By February of nineteen forty-four, the Allies were stuck below Monte Cassino, trying to force a way through the Gustav Line towards Rome. Before any attack could go in, the approach roads and fields had to be cleared of mines, slow, dangerous work, done on hands and knees. The battle for Monte Cassino would stretch on for four months, from January to May nineteen forty-four, and become one of the costliest battles of the entire Italian campaign.
 
 On the twenty-fourth of February, near Mignano, Subramanian was leading his men through one such minefield, marking the cleared path behind him as he went.
 
@@ -22,7 +22,7 @@ Subramanian shoved his comrade clear, and took the blast himself.
 
 He died minutes later.
 
-It's easy to overlook work like this. No charge, no captured guns, nothing that makes the news. But the roads his unit cleared were part of the groundwork for the offensive that, months later, finally broke through at Cassino and opened the way to Rome. Men like Subramanian made that possible, not by winning a battle, but by making sure the ground beneath everyone else's feet was safe to walk on.
+It's easy to overlook work like this. No charge, no captured guns, nothing that makes the news. But the roads his unit cleared were part of the groundwork for the offensive that, months later, finally broke through at Cassino and opened the way to Rome. Men like Subramanian made that possible — not by winning a battle, but by making the ground safe to walk on.
 
 For that single act, saving the life of the man behind him, he became the first Indian ever awarded the George Cross, Britain's highest award for bravery not in the face of the enemy.
 

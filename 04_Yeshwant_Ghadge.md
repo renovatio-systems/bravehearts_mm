@@ -28,11 +28,11 @@ But the Germans aren't finished. Snipers have him in their sights.
 
 He's killed in the position he just captured.
 
-His death wasn't the turning point of a campaign. It was one soldier's decision, in one small action, that let his unit keep moving forward that day, part of the same long push that would eventually carry the Allies into the mountains beyond.
+His death wasn't the turning point of a campaign. It was one soldier's decision, in one small action, that let his unit keep moving forward that day, part of the same long push towards the Gothic Line.
 
 For that single act, alone, with no one left beside him, Yeshwant Ghadge was awarded the Victoria Cross, posthumously.
 
-There's a statue of him today, in Mangaon, in Maharashtra, where he was born. His name is carved on the Cassino War Memorial too, although his body was never recovered. No grave, no final resting place, just a name on a wall, and a village that still remembers him.
+There's a statue of him today, in Mangaon, in Maharashtra, where he was born. His name is carved on the Cassino War Memorial too, although his body was never recovered. No grave, just a name on a wall, and a village that still remembers him.
 
 Ghadge went forward when there was no one left to go with him.
 
