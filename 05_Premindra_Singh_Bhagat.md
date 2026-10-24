@@ -27,6 +27,8 @@ Later, he rose to command Northern Command, one of the Indian Army's great forma
 
 His work ensured that those who followed could pass safely, and his name deserves to be remembered alongside those he made the way for.
 
+Premindra Singh Bhagat. Remember him.
+
 ## Sources
 - [Wikipedia — Premindra Singh Bhagat](https://en.wikipedia.org/wiki/Premindra_Singh_Bhagat)
 - [The Week — Courage under fire](https://www.theweek.in/theweek/cover/2020/07/23/courage-under-fire.html)
