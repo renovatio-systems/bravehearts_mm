@@ -4,35 +4,28 @@
 
 ## Script
 
-Imagine failing a hearing test, and going straight back to work anyway.
+Some honours are won in a single moment. Premindra Singh Bhagat's were won with a lifetime of bravery, and he did not stop for any of them.
 
-Second Lieutenant Premindra Singh Bhagat didn't have a choice. His eardrum was already damaged from an earlier mission, and there was still work to do.
+Second Lieutenant Premindra Singh Bhagat was twenty-two years old, serving with the Royal Bombay Sappers and Miners, in the Indian Army's engineers.
 
-Two months before, at a place called Gallabat, he'd led a dangerous demolition job under fire. He was recommended for a Military Cross for it; the recommendation was downgraded to a mention in despatches instead. If that stung, he didn't show it. He went straight back to the minefields.
+In November, nineteen forty, at Gallabat, in modern day Sudan, he had led a demolition party under fire. He destroyed a culvert with the last of the explosives while the enemy held firm.
 
-It's January, nineteen forty-one. The British and Indian armies are pushing the Italian army out of East Africa, a campaign that mattered far beyond the territory itself: Italian forces based there threatened Allied shipping through the Red Sea, one of the most important supply routes of the entire war.
+It's February, nineteen forty-one. British and Indian forces are driving the Italian army out of East Africa. The campaign mattered beyond the territory itself. Italian forces there threatened Allied shipping through the Red Sea, one of the most vital supply routes of the entire war.
 
-After the capture of Metemma, on the border of Sudan and what was then Abyssinia, the retreating Italians had left the road ahead sown with mines. Fifteen separate minefields, strung out across fifty-five miles.
+After the capture of Metemma, now part of Ethiopia, the retreating Italians had sown the road ahead with mines. Fifteen separate minefields, stretching across fifty-five miles.
 
-Nothing could move forward until that road was clear. No tanks, no supply trucks, no advance at all.
+Until that road was clear, nothing could move forward: no tanks, no supply trucks, and no advance.
 
-Bhagat leads the column anyway, clearing a path mile by mile.
+So Bhagat took the lead. He led the clearing of all fifteen minefields himself, working from dawn to dusk.
 
-His carrier is blown up. Once. Then again.
+Twice, a mine blew up the vehicle he was riding in. The second blast killed the driver and a sapper. One of Bhagat's eardrums was punctured by an explosion, yet he continued working.
 
-Still, he keeps going.
+For four days, over fifty-five miles, he held the advance together, one mine at a time. The road he cleared let the column keep pace. That push helped break Italian power in East Africa, and with it, the threat to the Red Sea route.
 
-For ninety-six hours, barely stopping, he directs the clearing of every single minefield along that road, keeping the advance moving.
+For this, Bhagat was awarded the Victoria Cross, the highest award for gallantry in the face of the enemy.
+Later, he rose to command Northern Command, one of the Indian Army's great formations, as General Officer Commanding-in-Chief in 1972. He was awarded the Param Vishisht Seva Medal for his service in the Gomti floods near Lucknow, honouring a lifetime of service.
 
-He was twenty-two years old.
-
-The road he cleared helped the campaign keep pace, part of the wider push that, within months, forced the Italian collapse across the region and lifted the threat to Allied shipping in the Red Sea for good.
-
-For his actions, Bhagat received the Victoria Cross, the first Indian officer to be awarded one in the Second World War.
-
-He survived the war, and went on to lead the Indian Army itself, decades later, as a Lieutenant General. He was later awarded the Param Vishisht Seva Medal too, recognising a lifetime of distinguished service, not a single day of it.
-
-Not every act of courage ends in loss. Sometimes it just takes everything you have, and you walk away anyway.
+His work ensured that those who followed could pass safely, and his name deserves to be remembered alongside those he made the way for.
 
 ## Sources
 - [Wikipedia — Premindra Singh Bhagat](https://en.wikipedia.org/wiki/Premindra_Singh_Bhagat)
@@ -41,7 +34,7 @@ Not every act of courage ends in loss. Sometimes it just takes everything you ha
 - [Battle of Keren background — Live History India](https://livehistoryindia.com/story/eras/battle-of-keren-eritrea-ww2)
 
 ## Open question
-Sources differ on whether the mine-clearing followed the Metemma or Gallabat action, and on the exact duration (96 hours vs. 4 days). The 15 minefields and 55-mile figures are consistent across sources and used here. Note: Metemma and Keren were on different fronts of the East African Campaign — script deliberately does not claim Bhagat's action was directly linked to Keren, only to the wider campaign.
+Sources differ on whether the mine-clearing followed the Metemma or Gallabat action. The 15 minefields, 55 miles and four-day (96-hour) duration are consistent across sources and used here. The eardrum injury is reported by Wikipedia and the VC citation. Script does not claim he was the first Indian officer to win a VC in WWII (not stated in the sources checked; Victoria Cross Online calls him the most senior Indian Army officer to receive one). Script does not claim a direct link to Keren, only to the wider East African campaign. Exact Northern Command title and PVSM date were not confirmed beyond 1972 and the flood-relief citation.
 
 ## Status
-Ready to write → script drafted above, expanded to ~2m30s, pending review.
+Script rewritten in a more majestic register; facts checked against Wikipedia and Victoria Cross Online. Pending word-count and review.
