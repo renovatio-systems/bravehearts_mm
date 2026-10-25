@@ -4,11 +4,11 @@
 
 ## Script
 
-Imagine being asked to guard a stranger's treasures, in a country you have never called home, while the war is still rolling past the door.
+Imagine carrying the weight of their relics and artefacts, centuries of Western civilisation's memory, in a country you have never called home, while the war is still rolling past the door.
 
-That was the job given to Indian soldiers in Italy in the summer of nineteen forty-four.
+That was the job given to Indian soldiers in Italy in the summer of nineteen forty-four. They had come to fight, and some would die, to free Italy and the people of Europe from a tyranny that threatened all of them. Now they were charged with protecting what that freedom was meant to preserve.
 
-Manakampat Kesavan Unni Nayar was born in nineteen eleven, in Kerala. He was a captain in the Maratha Light Infantry, serving in a land whose language and art were not his own, and he took the responsibility seriously.
+Manakampat Kesavan Unni Nayar was born in nineteen eleven, in Kerala. He was a captain in the Maratha Light Infantry, serving in a land far from home, and he took the responsibility seriously.
 
 On the thirtieth of July, nineteen forty-four, Captain Nayar travelled to Montegufoni Castle, about twenty-five kilometres outside Florence. He went with a BBC reporter, Wynford Vaughan-Thomas, and the novelist Eric Linklater, then a British army officer.
 
@@ -24,11 +24,11 @@ It was the first Allied guard these paintings had ever had.
 
 The visiting officers were so moved that they proposed something unusual. When the paintings returned to the Uffizi Gallery, one room should be named in honour of the Maratha soldiers who had stood watch over them.
 
-Think about that. Soldiers far from home, guarding a heritage that was not theirs, so that people they would never meet could one day stand before it. They were thousands of miles from the villages and cities they knew, with no guarantee of ever returning to them, and still they kept the watch.
+Think about that. Soldiers far from home, guarding a heritage that belonged to the people they had come to liberate, so that people they would never meet could one day stand before it. They were thousands of miles from the villages and cities they knew, with no guarantee of ever returning to them, and still they kept the watch.
 
 Those paintings still hang in Florence today. For a time, they depended on a handful of Indian soldiers, and on the Italians who had kept them safe for two years before that.
 
-Unni Nayar. He guarded the art of a people not his own, and he did it with care.
+Unni Nayar. He guarded the art of the people he had come to free, and he did it with care.
 
 ## Sources
 - [Comune di Firenze — Memorie di Resistenza: Manakampat Kesavan Unni Nayar](https://memoriediresistenza.comune.fi.it/pagina/storie-alleati/manakampat-kesavan-unni-nayar) (Italian; primary source for the Montegufoni episode, citing Alessia Cecconi, *Resistere per l'arte* (2015), pp.226–228, and Eustace D'Souza, *A Saga of Service* (1994))
